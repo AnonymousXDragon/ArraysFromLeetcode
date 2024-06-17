@@ -1,1 +1,1 @@
-# LeetCode Some Array Problems in Rust lang
+# LeetCode: Some Array Problems in Rust lang
